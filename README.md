@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3463-alternating-groups-i](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/3463-alternating-groups-i) |
 ## Sliding Window
 |  |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
