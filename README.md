@@ -25,8 +25,13 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Anujkumarsagar/DSA-Problems/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
